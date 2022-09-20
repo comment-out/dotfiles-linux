@@ -1,0 +1,5 @@
+[init]
+	defaultBranch = master
+[user]
+	email = comment-out@example.com
+	name = comment-out

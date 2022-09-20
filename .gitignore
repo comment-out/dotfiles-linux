@@ -1,0 +1,14 @@
+# work
+work/
+personal/
+
+# dotfiles
+.config/
+.cache/
+.local/
+.ssh/
+.firefox/
+.bash_logout
+.bash_history
+.python_history
+
